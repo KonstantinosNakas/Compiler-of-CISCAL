@@ -1,0 +1,9 @@
+Before deleting scope:
+Level 2: [parameter X inout off: 12, variable e off: 16]
+Level 1: [parameter X in off: 12, parameter Y inout off: 16, variable e off: 20, variable f off: 24, function p11[inout] start: 0 len: 20]
+Level 0: [variable A off: 12, variable b off: 16, variable g off: 20, variable f off: 24, function p1[in, inout] start: 0 len: 0]
+
+Before deleting scope:
+Level 1: [parameter X in off: 12, parameter Y inout off: 16, variable e off: 20, variable f off: 24, function p11[inout] start: 0 len: 20, variable T_0 off: 28, variable T_1 off: 32]
+Level 0: [variable A off: 12, variable b off: 16, variable g off: 20, variable f off: 24, function p1[in, inout] start: 6 len: 36]
+
